@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.react-tabs__tab {
+  font-size: 20px;
+  background-color: #b1b1b129;
+}
+.react-tabs__tab-panel p {
+  font-size: 20px;
+}
+.react-tabs__tab--selected {
+  background-color: #757ef8;
+  color: #fff;
+}
